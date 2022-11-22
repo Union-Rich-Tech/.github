@@ -14,4 +14,4 @@ We currently have other platforms and solutions in development that we will be i
      
 ### Looking for integrations?
 
-We are looking for integration partners that will allow us to introduce our software solutions to different clients. Do you have a software you're looking to integrate with one of our SaaS application? Reach out to us at: (https://www.unionrichtech.com/)[https://www.unionrichtech.com/]
+We are looking for integration partners that will allow us to introduce our software solutions to different clients. Do you have a software you're looking to integrate with one of our SaaS application? Reach out to us at: [https://www.unionrichtech.com/](https://www.unionrichtech.com/)
